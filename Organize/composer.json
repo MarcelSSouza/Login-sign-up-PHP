@@ -1,0 +1,8 @@
+{
+    "name": "marcelssouza/organize",
+    "description": "Just another Todo App (composer)",
+    "license": "MIT",
+    "require": {
+        "symfony/apache-pack": "^1.0"
+    }
+}

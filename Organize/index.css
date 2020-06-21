@@ -1,0 +1,76 @@
+*{
+    margin: 0em;
+    padding: 0em;
+    background-color: #FFF;
+}
+
+@font-face{
+    font-family: "Blenda";
+    src: url("Blenda\ Script.otf")
+  }
+
+.corpo-form{
+    width: 100%;
+
+}
+
+.titulo{
+    text-align: center;
+    font-family: Blenda; 
+    margin-bottom: 3%;
+    font-size: 5em;
+
+}
+
+
+.email{
+    border: 2px solid #17A2B8;
+    border-radius: 4px;
+    margin-bottom: 2%;
+    width: 40em;
+    height: 3em;
+
+}
+
+
+.senha{
+    border: 2px solid #17A2B8;
+     border-radius: 4px;
+    margin-bottom: 5%;
+    width: 40em;
+    height: 3em;
+
+}
+
+.acessar{
+    border: 2px solid #17A2B8;
+    border-radius: 4px;
+    background-color: #17A2B8 ;
+    color: #FFF;
+    width: 15em;
+    height: 3em;
+
+}
+
+.cadastrar{
+    margin-top: 2%;
+
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.form{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
